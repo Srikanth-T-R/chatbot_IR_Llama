@@ -1,14 +1,14 @@
-streamlit==1.29.0
-torch>=2.0.0
-transformers>=4.30.0
-langchain==0.1.0
-langchain-community==0.0.12
-faiss-cpu==1.7.4
-sentence-transformers==2.2.2
-huggingface-hub>=0.19.0
-accelerate>=0.20.0
-safetensors>=0.3.0
-packaging>=20.0
-protobuf>=3.20.0
-bitsandbytes>=0.41.0  # Optional: for more efficient inference if supported
-einops>=0.6.0  # Required by some transformer models
+streamlit
+torch
+transformers
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+huggingface-hub
+accelerate
+safetensors
+packaging
+protobuf
+bitsandbytes
+einops 
